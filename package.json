@@ -32,7 +32,7 @@
     "react-dom": "^19.0.0",
     "react-hook-form": "^7.54.2",
     "react-i18next": "^15.5.2",
-    "react-instantsearch": "^7.15.3",
+    "react-instantsearch": "^7.22.1",
     "react-instantsearch-nextjs": "^0.4.4",
     "tailwind-merge": "^2.6.0",
     "talkjs": "^0.37.0",
